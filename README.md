@@ -1,24 +1,27 @@
 ### Olá, eu sou o Gabriel Schneider, atualmente estudante de Analise e Desenvolvimento de Sistemas.
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI
-- cursando o 5º semestre
+Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI:
+- cursando o 5º semestre;
+- Data para conclusão: Dezembro de 2023.
 
-#### Técnico em informática integrado ao ensino médio - Instituto Federal Catarinense
-- Linguagem de programação Python
-- HTML e CSS
-- Banco de Dados - MySQL
-- Engenharia de Software 
+#### Técnico em informática integrado ao ensino médio - Instituto Federal Catarinense:
+- Linguagem de programação Python;
+- HTML e CSS;
+- Banco de Dados - MySQL;
+- Engenharia de Software;
+- Concluído em 2018.
 
-#### Programa +Devs2Blu: em andamento. 
-- Linguagem de programação Delphi
+#### Programa +Devs2Blu: (em andamento): 
+- Linguagem de programação Delphi;
+- Data para conclusão: março de 2023.
 
 #### CPA-10 (Certificação Profissional ANBIMA Série 10) é destinada aos profissionais que atuam na distribuição de produtos de investimento em agências bancárias ou plataformas de atendimento.
 - Investidor a mais de 3 anos em Renda variavel e Renda Fixa na B3.
+- Concluído em março de 2022;
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| <a href="https://github.com/gabrielhschneider/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielhschneider&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gabrielhschneider/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhschneider&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![Gabriel Schneider GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhschneider&show_icons=true&bg_color=00000000)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
