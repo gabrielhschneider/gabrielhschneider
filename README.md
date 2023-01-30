@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Schneider, atualmente militar do Efetivo Profissional do Exército Brasileiro desde 2019.
+### Olá, eu sou o Gabriel Schneider, atualmente militar do Efetivo Profissional do Exército Brasileiro.
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI:
 - cursando o 5º semestre;
