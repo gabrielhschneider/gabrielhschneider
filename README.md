@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil!
+### Olá, seja bem-vindo ao meu perfil!
 
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI:
