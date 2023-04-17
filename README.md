@@ -12,9 +12,9 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI:
 - Engenharia de Software;
 - Concluído em 2018.
 
-#### Programa +Devs2Blu: (em andamento): 
+#### Programa +Devs2Blu: 
 - Linguagem de programação Delphi;
-- Data para conclusão: março de 2023.
+- Data da conclusão: março de 2023.
 
 #### CPA-10 (Certificação Profissional ANBIMA Série 10) é destinada aos profissionais que atuam na distribuição de produtos de investimento em agências bancárias ou plataformas de atendimento.
 - Investidor a mais de 3 anos em Renda variavel e Renda Fixa na B3.
