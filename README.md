@@ -8,6 +8,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIASSELVI:
 #### Técnico em informática integrado ao ensino médio - Instituto Federal Catarinense:
 - Linguagem de programação Python;
 - HTML e CSS;
+- Hardware e Redes de Computadores;
 - Banco de Dados - MySQL;
 - Engenharia de Software;
 - Concluído em 2018.
